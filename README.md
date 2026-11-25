@@ -7,12 +7,15 @@
 | 仓库 | 用途 |
 |---|---|
 | [doossy-demo](https://github.com/znnw4m6k7k-dotcom/doossy-demo) | 企业文件智能归档、AI 检索与多 SKU 报价小样 |
+| [dsh-delivery](https://github.com/znnw4m6k7k-dotcom/dsh-delivery) | AI Agent 的需求确认、验收与复盘 |
+| [ecom-finance-app](https://github.com/znnw4m6k7k-dotcom/ecom-finance-app) | 电商财务导入、核算与审批演示 |
 
 ## 女装电商工具
 
 | 仓库 | 用途 |
 |---|---|
 | [taobao-lookbook-generator](https://github.com/znnw4m6k7k-dotcom/taobao-lookbook-generator) | 基于产品参考图生成淘宝女装 Lookbook |
+| [nuv](https://github.com/znnw4m6k7k-dotcom/nuv) | 支持产品卡和人物卡的一致性出图画布 |
 | [taobao-lookbook-reviewer](https://github.com/znnw4m6k7k-dotcom/taobao-lookbook-reviewer) | 独立审核 Lookbook 图片，给出 A/B/C 判定与返工意见 |
 | [xhs-fashion-agents](https://github.com/znnw4m6k7k-dotcom/xhs-fashion-agents) | 小红书女装审图与事实型文案的专用 Agent |
 | [xhs-fashion-qc-publish](https://github.com/znnw4m6k7k-dotcom/xhs-fashion-qc-publish) | 女装小红书生图、审图、文案与受控发布工作流 |
